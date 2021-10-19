@@ -13,7 +13,7 @@ When I'm not on my computer I like to hang out with my family, travel, and surf!
 
 
 test
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=macOs&logoColor=white&color=2bbc8a
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=macOs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 <!--
