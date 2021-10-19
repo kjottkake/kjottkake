@@ -1,8 +1,12 @@
 # Yo! ✋
 I'm Jason Ji and I'm a web development student! I'm from Oceanside, California, living currently in beautiful Gjøvik, Norway. 
 
-# Past Projects
-Here's some of my past projects which I'm proud of.
+# Technologies and Tools
+OS: Mac, Windows, Linux
+Editor: VS Code
+Code: JavaScript, React, Go
+Shell: Bash
+Tools: Postman
 
 # Hobbies and Interests
 When I'm not on my computer I like to hang out with my family, travel, and surf!
