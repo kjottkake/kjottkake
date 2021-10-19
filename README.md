@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Jason Ji
-
+# Yo!
+I'm Jason Ji and I'm a web developer of sorts.
 <!--
 **kjottkake/kjottkake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
