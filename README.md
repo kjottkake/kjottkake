@@ -1,5 +1,8 @@
-# Yo!
-I'm Jason Ji and I'm a web developer of sorts.
+# Yo! ✋
+I'm Jason Ji and I'm a web development student! I'm from Oceanside, California, living currently in beautiful Gjøvik, Norway. 
+
+# Past Projects
+Here's some of my past projects which I'm proud of.
 <!--
 **kjottkake/kjottkake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
