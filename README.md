@@ -3,6 +3,9 @@ I'm Jason Ji and I'm a web development student! I'm from Oceanside, California, 
 
 # Past Projects
 Here's some of my past projects which I'm proud of.
+
+# Hobbies and Interests
+When I'm not on my computer I like to hang out with my family, travel, and surf!
 <!--
 **kjottkake/kjottkake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
